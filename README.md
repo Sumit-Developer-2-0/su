@@ -26,7 +26,7 @@
 <summary>Deploy To Koyeb</summary>
 <p>
 <br>                 
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/JishuDeveloper/Rename-Bot-2GB&branch=main&name=rename-bot-2gb" >
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/Sumit-Developer-2-0/su&branch=main&name=rename-bot-2gb" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -35,7 +35,7 @@
 <summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/JishuDeveloper/Rename-Bot-2GB">
+<a href="https://heroku.com/deploy?template=https://github.com/Sumit-Developer-2-0/su">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
